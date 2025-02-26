@@ -19,7 +19,7 @@ import { APP_FILTER, APP_INTERCEPTOR } from '@nestjs/core';
       host: 'localhost', // MySQL服务器地址
       port: 3306, // MySQL端口
       username: 'root', // 数据库用户名
-      password: 'deng725824', // 数据库密码
+      password: 'BlackKey2025', // 数据库密码
       database: 'commodity', // 数据库名称
       entities: [User, Good, Order], // 你的实体类
       synchronize: true, // 自动同步数据库（开发阶段可以使用，生产环境建议设置为false）
